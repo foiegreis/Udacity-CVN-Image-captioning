@@ -71,8 +71,8 @@ This implementation had excercise purpose so it could be improved a lot, choosin
 Below some results
 
 Good inference examples:
-<p align="center"> <img src="images/inference_ok_1.png" align="middle" alt="drawing" width="900px"> </p> 
-<p align="center"> <img src="images/inference_ok_2.png" align="middle" alt="drawing" width="900px"> </p> 
+<p align="center"> <img src="images/inference_ok_1.png" align="middle" alt="drawing" width="500px"> </p> 
+<p align="center"> <img src="images/inference_ok_2.png" align="middle" alt="drawing" width="500px"> </p> 
 
 Bad inference:
-<p align="center"> <img src="images/inference_nok_1.png" align="middle" alt="drawing" width="900px"> </p> 
+<p align="center"> <img src="images/inference_nok_1.png" align="middle" alt="drawing" width="500px"> </p> 
